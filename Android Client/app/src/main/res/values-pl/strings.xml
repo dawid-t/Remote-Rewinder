@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Remote Rewinder</string>
+
+    <string name="change_language">Zmień język [ENG]</string>
+
+    <string name="disconnected">Rozłączony</string>
+    <string name="connecting">Łączenie...</string>
+    <string name="connected">Połączony</string>
+    <string name="with">z</string>
+
+    <string name="search_pc">Wyszukaj PC</string>
+    <string name="connect_to_pc">Połącz z PC</string>
+    <string name="disconnect">Rozłącz</string>
+    <string name="work_in_background">Działaj w tle</string>
+
+    <string name="tcp_port_unavailable">Port serwera jest niedostępny.\nZmień port na serwerze.\nlub\nWyłącz aplikację, która używa tego portu.</string>
+    <string name="udp_port_unavailable">Port jest niedostępny.\nProszę wybrać inny.</string>
+</resources>
